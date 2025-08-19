@@ -3,7 +3,7 @@ JUEGO AMIGO SECRETO - 1ER PROGAMA EN JS<br>
 Proyecto: Sorteo de Amigo Secreto <BR>
 ¡Una sencilla pero divertida aplicación web para organizar el sorteo del "Amigo Secreto"! Esta herramienta permite a los usuarios agregar una lista de participantes y realizar un sorteo aleatorio para descubrir quién será el amigo secreto.
 
-🚀 Funcionalidades Principales
+<h1>🚀 Funcionalidades Principales</h1>
 Agregar Participantes: Los usuarios pueden escribir el nombre de un amigo en un campo de texto y añadirlo a una lista visible.
 
 <h2>Visualización en Tiempo Real: </h2>
