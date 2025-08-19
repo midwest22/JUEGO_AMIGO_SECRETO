@@ -30,7 +30,7 @@ Este proyecto fue desarrollado utilizando tecnologías web estándar:
 <h1>📋 Cómo Utilizar</h1>
 Para ejecutar este proyecto en tu máquina local, sigue estos sencillos pasos:<br>
 <h2>Clona el repositorio en tu computadora:</h2><br>
-  <li>git clone https://github.com/tu-usuario/tu-repositorio.git</li><br>
+  <li>git clone https://github.com/midwest22/JUEGO_AMIGO_SECRETO.git</li><br>
 <h1>Navega a la carpeta del proyecto:</h1><br>
 <li>cd tu-repositorio</li><br>
 <li>Abre el archivo index.html en tu navegador web preferido.</li><br>
